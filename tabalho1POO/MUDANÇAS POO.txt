@@ -1,0 +1,3 @@
+- Alteração na classe Usuario para abstract. 
+- Adição dos atributos disponivelVenda e disponivelAluguel à classe Imovel, para identificar quais imoveis estão disponiveis para locação ou venda.
+- Os itens 6 e 8 dos relatórios geram a mesma lista de imóveis, portanto transformamos esses dois em um só relatório, sendo ele o relatório de imóveis indisponíveis, seja pra locação ou venda.
